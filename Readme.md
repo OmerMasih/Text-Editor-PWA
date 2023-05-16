@@ -61,7 +61,7 @@ No test required at the moment.
 ## Heroku Link
 
 Please click on the following link to see the application feature for this project:
-[Link to Demo]()
+[Link to Demo](https://text-editor-backend.herokuapp.com/)
 
 ## Questions
 
