@@ -2,8 +2,8 @@
   "name": "JATE",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "cd client && npm run build",
-    "start": "npm run build && cd server && node server.js"
+    "build": "webpack --mode production",
+    "start": "webpack --watch"
   },
   "author": "2U",
   "license": "UNLICENSED",
